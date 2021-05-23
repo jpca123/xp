@@ -2,9 +2,10 @@
 	display: block;
 	color: green;
 	font-size: 30px;
-	font-weigth: bold;
+	font-weight: bold;
 }
 
 p{
 	font-size: 69px;
+	font-style: italic;
 }
